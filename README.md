@@ -16,7 +16,7 @@ import Herepolydecode from "heremap-polyline-decoder";
 
 ```
 
-styles?: object; (optional)
+styles?: object;
 mapApiKey?: string;
 hereMapApiKey?: string;
 defaultCenter?: Coords; (optional)
