@@ -23,7 +23,7 @@ let marker: any = [];
 
 const App: React.FC<ICounterProps> = ({
   styles = {
-    height: "100%",
+    height: "100vh",
     width: "100%",
   },
   mapApiKey = "",
